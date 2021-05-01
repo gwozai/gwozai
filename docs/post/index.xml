@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Java专家随笔记</title>
-    <link>http://gwozai.cn/post/</link>
+    <link>https://gwozai.github.io/gwozai/post/</link>
     <description>Recent content in Posts on Java专家随笔记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 11:45:44 +0800</lastBuildDate>
     
-	<atom:link href="http://gwozai.cn/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gwozai.github.io/gwozai/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Golang Gin 实战（五）| 接收数组和 Map</title>
-      <link>http://gwozai.cn/2019/12/18/golang-gin-query-parameters-array-map.html</link>
-      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      <title></title>
+      <link>https://gwozai.github.io/gwozai/post/minio/</link>
+      <pubDate>Sat, 01 May 2021 11:45:44 +0800</pubDate>
       
-      <guid>http://gwozai.cn/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
-      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+      <guid>https://gwozai.github.io/gwozai/post/minio/</guid>
+      <description>minio 对象存储，同类产品有阿里云的oss docker安装</description>
     </item>
     
     <item>
-      <title>Golang Gin 实战（三）| 路由参数</title>
-      <link>http://gwozai.cn/post/2019-12-13-golang-gin-parameters-in-path/</link>
-      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      <title></title>
+      <link>https://gwozai.github.io/gwozai/post/vmwareinstall/</link>
+      <pubDate>Sat, 01 May 2021 11:28:39 +0800</pubDate>
       
-      <guid>http://gwozai.cn/post/2019-12-13-golang-gin-parameters-in-path/</guid>
-      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+      <guid>https://gwozai.github.io/gwozai/post/vmwareinstall/</guid>
+      <description>vmware 16的安装 安装包 密钥 16版本 ZF3R0-FHED2-M80TY-8QYGC-NPKYF 15版本 FG78K-0UZ15-085TQ-TZQXV-XV0CD ZA11U-DVY97-M81LP-4MNEZ-X3AW0 YU102-44D86-48D2Z-Z4Q5C-MFAWD</description>
     </item>
     
     <item>
-      <title>Golang Gin 实战（三）| 路由参数</title>
-      <link>http://gwozai.cn/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</link>
-      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      <title></title>
+      <link>https://gwozai.github.io/gwozai/post/git/</link>
+      <pubDate>Sat, 01 May 2021 11:27:00 +0800</pubDate>
       
-      <guid>http://gwozai.cn/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</guid>
-      <description>标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容 标题 段落内容</description>
+      <guid>https://gwozai.github.io/gwozai/post/git/</guid>
+      <description>git 安装包 git 初始化设置 $ git config --global user.name &amp;quot;lihua&amp;quot; $ git config --global user.email 2705***12@qq.com</description>
     </item>
     
   </channel>

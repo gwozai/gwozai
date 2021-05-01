@@ -2,21 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Java专家随笔记</title>
-    <link>http://gwozai.cn/tags/</link>
+    <link>https://gwozai.github.io/gwozai/tags/</link>
     <description>Recent content in Tags on Java专家随笔记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 11:45:44 +0800</lastBuildDate>
     
-	<atom:link href="http://gwozai.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gwozai.github.io/gwozai/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>golang</title>
-      <link>http://gwozai.cn/tags/golang/</link>
-      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      <title>minio</title>
+      <link>https://gwozai.github.io/gwozai/tags/minio/</link>
+      <pubDate>Sat, 01 May 2021 11:45:44 +0800</pubDate>
       
-      <guid>http://gwozai.cn/tags/golang/</guid>
+      <guid>https://gwozai.github.io/gwozai/tags/minio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmware的安装</title>
+      <link>https://gwozai.github.io/gwozai/tags/vmware%E7%9A%84%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Sat, 01 May 2021 11:28:39 +0800</pubDate>
+      
+      <guid>https://gwozai.github.io/gwozai/tags/vmware%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git的安装</title>
+      <link>https://gwozai.github.io/gwozai/tags/git%E7%9A%84%E5%AE%89%E8%A3%85/</link>
+      <pubDate>Sat, 01 May 2021 11:27:00 +0800</pubDate>
+      
+      <guid>https://gwozai.github.io/gwozai/tags/git%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
       <description></description>
     </item>
     
