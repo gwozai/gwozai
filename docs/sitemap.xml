@@ -3,90 +3,105 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/post/minio/</loc>
+    <loc>https://lizhuo.asia/post/utterances/</loc>
+    <lastmod>2021-05-01T12:35:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lizhuo.asia/categories/</loc>
+    <lastmod>2021-05-01T12:35:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lizhuo.asia/</loc>
+    <lastmod>2021-05-01T12:35:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lizhuo.asia/post/</loc>
+    <lastmod>2021-05-01T12:35:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lizhuo.asia/tags/</loc>
+    <lastmod>2021-05-01T12:35:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lizhuo.asia/tags/utterances%E8%AF%84%E8%AE%BA/</loc>
+    <lastmod>2021-05-01T12:35:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lizhuo.asia/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-05-01T12:35:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lizhuo.asia/post/minio/</loc>
     <lastmod>2021-05-01T11:45:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/categories/</loc>
+    <loc>https://lizhuo.asia/tags/minio/</loc>
     <lastmod>2021-05-01T11:45:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/</loc>
+    <loc>https://lizhuo.asia/categories/minio/</loc>
     <lastmod>2021-05-01T11:45:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/tags/minio/</loc>
+    <loc>https://lizhuo.asia/categories/oss/</loc>
     <lastmod>2021-05-01T11:45:44+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/categories/minio/</loc>
-    <lastmod>2021-05-01T11:45:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gwozai.github.io/gwozai/categories/oss/</loc>
-    <lastmod>2021-05-01T11:45:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gwozai.github.io/gwozai/post/</loc>
-    <lastmod>2021-05-01T11:45:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gwozai.github.io/gwozai/tags/</loc>
-    <lastmod>2021-05-01T11:45:44+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gwozai.github.io/gwozai/post/vmwareinstall/</loc>
+    <loc>https://lizhuo.asia/post/vmwareinstall/</loc>
     <lastmod>2021-05-01T11:28:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/categories/Vmware/</loc>
+    <loc>https://lizhuo.asia/categories/Vmware/</loc>
     <lastmod>2021-05-01T11:28:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/tags/vmware%E7%9A%84%E5%AE%89%E8%A3%85/</loc>
+    <loc>https://lizhuo.asia/tags/vmware%E7%9A%84%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2021-05-01T11:28:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/post/git/</loc>
+    <loc>https://lizhuo.asia/post/git/</loc>
     <lastmod>2021-05-01T11:27:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/categories/git/</loc>
+    <loc>https://lizhuo.asia/categories/git/</loc>
     <lastmod>2021-05-01T11:27:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/tags/git%E7%9A%84%E5%AE%89%E8%A3%85/</loc>
+    <loc>https://lizhuo.asia/tags/git%E7%9A%84%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2021-05-01T11:27:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/about/</loc>
+    <loc>https://lizhuo.asia/about/</loc>
     <lastmod>2015-03-10T00:13:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/archives/</loc>
+    <loc>https://lizhuo.asia/archives/</loc>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/tools/</loc>
+    <loc>https://lizhuo.asia/tools/</loc>
   </url>
   
   <url>
-    <loc>https://gwozai.github.io/gwozai/search/</loc>
+    <loc>https://lizhuo.asia/search/</loc>
   </url>
   
 </urlset>

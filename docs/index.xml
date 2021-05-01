@@ -2,75 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java专家随笔记</title>
-    <link>https://gwozai.github.io/gwozai/</link>
+    <link>https://lizhuo.asia/</link>
     <description>Recent content on Java专家随笔记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 May 2021 11:45:44 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 12:35:46 +0800</lastBuildDate>
     
-	<atom:link href="https://gwozai.github.io/gwozai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lizhuo.asia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://gwozai.github.io/gwozai/post/minio/</link>
+      <link>https://lizhuo.asia/post/utterances/</link>
+      <pubDate>Sat, 01 May 2021 12:35:46 +0800</pubDate>
+      
+      <guid>https://lizhuo.asia/post/utterances/</guid>
+      <description>utterances 基于 github issues 的评论工具 utterances</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lizhuo.asia/post/minio/</link>
       <pubDate>Sat, 01 May 2021 11:45:44 +0800</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/post/minio/</guid>
+      <guid>https://lizhuo.asia/post/minio/</guid>
       <description>minio 对象存储，同类产品有阿里云的oss docker安装</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gwozai.github.io/gwozai/post/vmwareinstall/</link>
+      <link>https://lizhuo.asia/post/vmwareinstall/</link>
       <pubDate>Sat, 01 May 2021 11:28:39 +0800</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/post/vmwareinstall/</guid>
+      <guid>https://lizhuo.asia/post/vmwareinstall/</guid>
       <description>vmware 16的安装 安装包 密钥 16版本 ZF3R0-FHED2-M80TY-8QYGC-NPKYF 15版本 FG78K-0UZ15-085TQ-TZQXV-XV0CD ZA11U-DVY97-M81LP-4MNEZ-X3AW0 YU102-44D86-48D2Z-Z4Q5C-MFAWD</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://gwozai.github.io/gwozai/post/git/</link>
+      <link>https://lizhuo.asia/post/git/</link>
       <pubDate>Sat, 01 May 2021 11:27:00 +0800</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/post/git/</guid>
+      <guid>https://lizhuo.asia/post/git/</guid>
       <description>git 安装包 git 初始化设置 $ git config --global user.name &amp;quot;lihua&amp;quot; $ git config --global user.email 2705***12@qq.com</description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>https://gwozai.github.io/gwozai/about/</link>
+      <link>https://lizhuo.asia/about/</link>
       <pubDate>Tue, 10 Mar 2015 00:13:27 +0000</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/about/</guid>
+      <guid>https://lizhuo.asia/about/</guid>
       <description>《Go 实战笔记》系列作者，《Golang Gin 实战》系列作者，《Android Gradle权威指南》作者，现负责技术管理。 Android Gradle权威指南 公众号，扫码关注</description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>https://gwozai.github.io/gwozai/archives/</link>
+      <link>https://lizhuo.asia/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/archives/</guid>
+      <guid>https://lizhuo.asia/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>https://gwozai.github.io/gwozai/tools/</link>
+      <link>https://lizhuo.asia/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/tools/</guid>
+      <guid>https://lizhuo.asia/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>搜索</title>
-      <link>https://gwozai.github.io/gwozai/search/</link>
+      <link>https://lizhuo.asia/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/search/</guid>
+      <guid>https://lizhuo.asia/search/</guid>
       <description></description>
     </item>
     

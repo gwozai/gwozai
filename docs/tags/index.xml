@@ -2,39 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Java专家随笔记</title>
-    <link>https://gwozai.github.io/gwozai/tags/</link>
+    <link>https://lizhuo.asia/tags/</link>
     <description>Recent content in Tags on Java专家随笔记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 01 May 2021 11:45:44 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 May 2021 12:35:46 +0800</lastBuildDate>
     
-	<atom:link href="https://gwozai.github.io/gwozai/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lizhuo.asia/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>utterances评论</title>
+      <link>https://lizhuo.asia/tags/utterances%E8%AF%84%E8%AE%BA/</link>
+      <pubDate>Sat, 01 May 2021 12:35:46 +0800</pubDate>
+      
+      <guid>https://lizhuo.asia/tags/utterances%E8%AF%84%E8%AE%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>minio</title>
-      <link>https://gwozai.github.io/gwozai/tags/minio/</link>
+      <link>https://lizhuo.asia/tags/minio/</link>
       <pubDate>Sat, 01 May 2021 11:45:44 +0800</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/tags/minio/</guid>
+      <guid>https://lizhuo.asia/tags/minio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vmware的安装</title>
-      <link>https://gwozai.github.io/gwozai/tags/vmware%E7%9A%84%E5%AE%89%E8%A3%85/</link>
+      <link>https://lizhuo.asia/tags/vmware%E7%9A%84%E5%AE%89%E8%A3%85/</link>
       <pubDate>Sat, 01 May 2021 11:28:39 +0800</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/tags/vmware%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
+      <guid>https://lizhuo.asia/tags/vmware%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git的安装</title>
-      <link>https://gwozai.github.io/gwozai/tags/git%E7%9A%84%E5%AE%89%E8%A3%85/</link>
+      <link>https://lizhuo.asia/tags/git%E7%9A%84%E5%AE%89%E8%A3%85/</link>
       <pubDate>Sat, 01 May 2021 11:27:00 +0800</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/tags/git%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
+      <guid>https://lizhuo.asia/tags/git%E7%9A%84%E5%AE%89%E8%A3%85/</guid>
       <description></description>
     </item>
     

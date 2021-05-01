@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vmware on Java专家随笔记</title>
-    <link>https://gwozai.github.io/gwozai/categories/Vmware/</link>
+    <link>https://lizhuo.asia/categories/Vmware/</link>
     <description>Recent content in Vmware on Java专家随笔记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 01 May 2021 11:28:39 +0800</lastBuildDate>
     
-	<atom:link href="https://gwozai.github.io/gwozai/categories/Vmware/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lizhuo.asia/categories/Vmware/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://gwozai.github.io/gwozai/post/vmwareinstall/</link>
+      <link>https://lizhuo.asia/post/vmwareinstall/</link>
       <pubDate>Sat, 01 May 2021 11:28:39 +0800</pubDate>
       
-      <guid>https://gwozai.github.io/gwozai/post/vmwareinstall/</guid>
+      <guid>https://lizhuo.asia/post/vmwareinstall/</guid>
       <description>vmware 16的安装 安装包 密钥 16版本 ZF3R0-FHED2-M80TY-8QYGC-NPKYF 15版本 FG78K-0UZ15-085TQ-TZQXV-XV0CD ZA11U-DVY97-M81LP-4MNEZ-X3AW0 YU102-44D86-48D2Z-Z4Q5C-MFAWD</description>
     </item>
     

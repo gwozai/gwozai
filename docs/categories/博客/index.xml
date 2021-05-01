@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on Java专家随笔记</title>
+    <link>https://lizhuo.asia/categories/%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 博客 on Java专家随笔记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 01 May 2021 12:35:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://lizhuo.asia/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://lizhuo.asia/post/utterances/</link>
+      <pubDate>Sat, 01 May 2021 12:35:46 +0800</pubDate>
+      
+      <guid>https://lizhuo.asia/post/utterances/</guid>
+      <description>utterances 基于 github issues 的评论工具 utterances</description>
+    </item>
+    
+  </channel>
+</rss>
